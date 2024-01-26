@@ -8,6 +8,6 @@ const app = express()
 app.use(express.urlencoded({extended: true}))
 app.use (initRouter)
 
-app.listen(process.env.PORT , ()=>{
+app.listen(process.env.PORT,()=>{
 console.log({`server kører på http://locolhost:${process.env.PORT}`});
 })

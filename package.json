@@ -1,0 +1,12 @@
+{
+  "name": "myown-choice-hop",
+  "version": "1.0.0",
+  "description": "Læs om opgaven på repository'ets wiki: https://github.com/asmina18/MyOwnChoice-Shop/wiki",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
